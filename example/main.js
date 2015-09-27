@@ -1,4 +1,4 @@
-import { boom, tak } from '..'
+//import { boom, tak } from '../es6'
 
 const ingredients = [
   { name: 'Eggs', amount: '2' },
