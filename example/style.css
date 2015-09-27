@@ -1,0 +1,12 @@
+.title {
+  font-size: 22px;
+  font-family: Arial, sans-serif;
+}
+
+.ingredient-list {
+  padding-left: 18px;
+}
+
+.unit {
+  color: #888;
+}
